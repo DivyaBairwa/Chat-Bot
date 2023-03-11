@@ -205,7 +205,7 @@ function App() {
               <img src={image} alt="" />
             </div>
             <div className="right">
-              <div className="name">ChatBot</div>
+              <div className="name">DivBot</div>
               <div className="status">Active</div>
             </div>
           </div>
